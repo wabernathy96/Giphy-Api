@@ -1,0 +1,26 @@
+#navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+};
+
+.titledj {
+    max-width: 100%;
+    height: auto;
+    align-content: center;
+};
+
+button {
+    margin: 1rem 1rem 1rem 1rem !important;
+    background-color: aqua !important;
+};
+
+
+/* .title{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    align-content: center;
+}; */
